@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+profile.md
+searches.json
+job-hunt-output/
+resume-roast-output/
+linkedin-roast-output/
+.env

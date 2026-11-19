@@ -1,0 +1,8 @@
+{"name": "ALEX RIVERA", "contact_left": "alex@example.com | linkedin.com/in/example", "contact_right": "Boston, MA | (555) 010-0100",
+ "sections": [
+  {"title": "Summary", "text": "Business student who built a campus tutoring service from zero to 120 students."},
+  {"title": "Education", "entries": [{"left": "Example University", "right": "Boston, MA", "left2": "BS Business Administration", "right2": "May 2027"}]},
+  {"title": "Experience", "entries": [{"left": "Campus Tutoring Co.", "right": "Boston, MA", "left2": "Founder", "right2": "September 2025 - Present",
+    "bullets": ["Grew a peer tutoring service to 120 students in two semesters by recruiting 15 tutors and running referral nights in dorms.",
+                "Cut scheduling time from hours to minutes by building a booking sheet with automatic reminders."]}]}
+ ]}
